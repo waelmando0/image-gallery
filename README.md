@@ -2,7 +2,7 @@
 
 Learn how to create an image gallery with dynamic content from a PostgreSQL database, with support for content updates without neding to redeploy.
 
-https://image-gallery-waelmando0.vercel.app
+https://image-gallery-lac.vercel.app
 
 ## Built With
 
